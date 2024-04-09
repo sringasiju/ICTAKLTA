@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-05T23:29:51 IST" name="Suite" finished-at="2024-04-05T23:30:28 IST" duration-ms="36630">
+    <groups>
+    </groups>
+    <test started-at="2024-04-05T23:29:51 IST" name="Test" finished-at="2024-04-05T23:30:28 IST" duration-ms="36630">
+      <class name="org.ictakerala.learnertracker.TestClass">
+        <test-method is-config="true" signature="init()[pri:0, instance:org.ictakerala.learnertracker.TestClass@60bd273d]" started-at="2024-04-05T23:29:51 IST" name="init" finished-at="2024-04-05T23:29:54 IST" duration-ms="3013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="homepage()[pri:1, instance:org.ictakerala.learnertracker.TestClass@60bd273d]" started-at="2024-04-05T23:29:54 IST" name="homepage" finished-at="2024-04-05T23:29:54 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method signature="trainerlogin()[pri:2, instance:org.ictakerala.learnertracker.TestClass@60bd273d]" started-at="2024-04-05T23:29:54 IST" name="trainerlogin" finished-at="2024-04-05T23:30:00 IST" duration-ms="5592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trainerlogin -->
+        <test-method signature="addform()[pri:3, instance:org.ictakerala.learnertracker.TestClass@60bd273d]" started-at="2024-04-05T23:30:00 IST" name="addform" finished-at="2024-04-05T23:30:01 IST" duration-ms="1297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addform -->
+        <test-method signature="addlearner()[pri:4, instance:org.ictakerala.learnertracker.TestClass@60bd273d]" started-at="2024-04-05T23:30:01 IST" name="addlearner" finished-at="2024-04-05T23:30:21 IST" duration-ms="19812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addlearner -->
+        <test-method signature="placementofficer()[pri:5, instance:org.ictakerala.learnertracker.TestClass@60bd273d]" started-at="2024-04-05T23:30:21 IST" name="placementofficer" finished-at="2024-04-05T23:30:26 IST" duration-ms="5234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placementofficer -->
+        <test-method signature="admin()[pri:6, instance:org.ictakerala.learnertracker.TestClass@60bd273d]" started-at="2024-04-05T23:30:26 IST" name="admin" finished-at="2024-04-05T23:30:28 IST" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- admin -->
+        <test-method is-config="true" signature="End()[pri:0, instance:org.ictakerala.learnertracker.TestClass@60bd273d]" started-at="2024-04-05T23:30:28 IST" name="End" finished-at="2024-04-05T23:30:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- org.ictakerala.learnertracker.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
